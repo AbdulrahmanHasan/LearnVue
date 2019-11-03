@@ -1,0 +1,13 @@
+{
+    "name": "LearnVue",
+    "alias": "learnvue",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\LearnVue\\Providers\\LearnVueServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
